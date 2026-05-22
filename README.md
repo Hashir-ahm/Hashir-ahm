@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashir-ahm&label=Profile%20views&color=0e75b6&style=flat" alt="hashir-ahm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashir-ahm" alt="hashir-ahm" /></a> </p>
-
 - 🔭 I’m currently working on [PoseLift (3D Biomechanical Feedback Pipeline)](https://github.com/Hashir-ahm/poselift.git)
 
 - 🌱 I’m currently learning **Advanced Deep Learning Architectures & Multi-Agent LLM Frameworks**
