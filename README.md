@@ -1,50 +1,28 @@
-# Hi, I'm Hashir Ahmed Aurangzeb 👋
+<h1 align="center">Hi 👋, I'm Hashir Ahmed</h1>
+<h3 align="center">Transforming raw, complex data into intelligent products. Focused on deep learning, predictive analytics, and end-to-end ML pipelines.</h3>
 
-I am a Data Science student at FAST-NUCES Islamabad (Graduating June 2026) and an aspiring Software Engineer / Data Scientist. My work bridges the gap between complex machine learning research and robust full-stack software development. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashir-ahm" alt="hashir-ahm" /></a> </p>
 
----
+- 🔭 I’m currently working on [PoseLift (3D Biomechanical Feedback Pipeline)](https://github.com/Hashir-ahm/poselift.git)
 
-### 🚀 Featured Focus Areas
-* **Computer Vision & Biomechanics:** Building intelligent systems for 3D human form reconstruction and real-time form correction.
-* **Natural Language Processing:** Investigating multi-agent LLM debates and RAG optimization to reduce inference latency and model hallucinations.
-* **Data Engineering & Analytics:** Designing efficient ETL pipelines, star schemas, and distributed big-data architectures.
+- 🌱 I’m currently learning **Advanced Deep Learning Architectures & Multi-Agent LLM Frameworks**
 
----
+- 👯 I’m looking to collaborate on **ML/DL Open-source NLP, Computer Vision, Big Data systems**
 
-### 🛠️ Tech Stack & Tools
+- 💬 Ask me about **Machine Learning, Deep Learning, AI Integration, MERN Stack, Data Warehousing, and RAG optimization**
 
-* **Languages:** Python | JavaScript | TypeScript | SQL | C++ | Java
-* **AI / Machine Learning:** PyTorch | TensorFlow | Scikit-learn | MediaPipe | NLP | Computer Vision
-* **Data Engineering & Tools:** Hadoop | Spark | Kafka | MySQL | MongoDB | ETL | Git | Docker
-* **Web Development:** React | Next.js | Node.js | Express.js | FastAPI | WebSockets | Three.js
+- 📫 How to reach me **hashirahmedaurangzeb@gmail.com**
 
----
+- 📄 Know about my experiences [https://www.linkedin.com/in/hashir-ahmed-6988381a0/](https://www.linkedin.com/in/hashir-ahmed-6988381a0/)
 
-### 🔬 Key Projects & Research
-
-#### 🏋️‍♂️ [PoseLift](https://github.com/Hashir-ahm/poselift) (Final Year Project)
-* **Tech Stack:** Python, MediaPipe, FastAPI, WebSockets, Next.js, Three.js
-* *Developed a 2D-to-3D pose lifting pipeline leveraging monocular video to reconstruct 3D human forms, offering real-time biomechanical feedback and posture correction during exercises.*
-
-#### 🤖 [multilingual-drag](https://github.com/Hashir-ahm/multilingual-drag) (NLP Research)
-* **Tech Stack:** LLMs, RAG, Python, FlashRAG
-* *Reproduced the Debate-Augmented Retrieval-Augmented Generation (DRAG) framework to mitigate LLM hallucinations. Engineered an extension—**Adaptive Response Debate (ARD-DRAG)**—incorporating early-stopping mechanisms to drastically lower multi-agent inference costs.*
-
-#### 🛡️ IoT Botnet Detection Model
-* **Tech Stack:** IoT, Machine Learning, Cybersecurity
-* *Designed a lightweight Hybrid Machine Learning model optimized for resource-constrained IoT environments to detect network-level botnet attacks with low computational overhead.*
-
----
-
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hashir-ahm&show_icons=true&theme=tokyonight&count_private=true" alt="Hashir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir-ahm&layout=compact&theme=tokyonight" alt="Hashir's Top Languages" width="48%" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hashir-ahmed-6988381a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashir-ahmed-6988381a0/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📬 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/hashir-ahmed](https://linkedin.com/in/hashir-ahmed)
-* **Email:** hashirahmedaurangzeb@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashir-ahm&show_icons=true&locale=en&layout=compact" alt="hashir-ahm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashir-ahm&show_icons=true&locale=en" alt="hashir-ahm" /></p>
