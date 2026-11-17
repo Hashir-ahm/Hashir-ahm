@@ -19,7 +19,6 @@
 |---|---|---|
 | [**PoseLift**](https://github.com/Hashir-ahm/poselift) | Real-time 3D human pose estimation from a webcam, with rep counting and form feedback for gym exercises — 35.8 mm MPJPE on Human3.6M + MPI-INF-3DHP | PyTorch · MediaPipe · FastAPI · Next.js · Three.js |
 | [**Multilingual DRAG**](https://github.com/Hashir-ahm/multilingual-drag) | Extends Debate-Augmented RAG (ACL 2025) to non-English questions to reduce LLM hallucination | RAG · LLMs · NLP |
-| [**showroom360**](https://github.com/Hashir-ahm/showroom360) · [live](https://hashir-ahm.github.io/showroom360/) | Interactive 360° car showroom — drag to spin, open doors, hood and tailgate | JavaScript |
 | [**Facial Expression Analyzer**](https://github.com/Hashir-ahm/Facial-Expression-Analyzer) | Emotion classification + valence/arousal regression with MobileNet | Deep Learning · CV |
 | [**Walmart Data Warehouse**](https://github.com/Hashir-ahm/Walmart-Data-Warehouse) | Data warehouse with MySQL schema, Python ETL and analysis | MySQL · Python |
 | [**NPM Package Comparator**](https://github.com/Hashir-ahm/npm-package-comparator) · [live](https://npm-package-comparator.vercel.app) | Compare two npm packages and get a recommendation | React · TypeScript |
