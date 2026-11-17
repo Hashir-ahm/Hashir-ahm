@@ -21,7 +21,7 @@
 | [**Multilingual DRAG**](https://github.com/Hashir-ahm/multilingual-drag) | Extends Debate-Augmented RAG (ACL 2025) to non-English questions to reduce LLM hallucination | RAG · LLMs · NLP |
 | [**Facial Expression Analyzer**](https://github.com/Hashir-ahm/Facial-Expression-Analyzer) | Emotion classification + valence/arousal regression with MobileNet | Deep Learning · CV |
 | [**Walmart Data Warehouse**](https://github.com/Hashir-ahm/Walmart-Data-Warehouse) | Data warehouse with MySQL schema, Python ETL and analysis | MySQL · Python |
-| [**NPM Package Comparator**](https://github.com/Hashir-ahm/npm-package-comparator) · [live](https://npm-package-comparator.vercel.app) | Compare two npm packages and get a recommendation | React · TypeScript |
+| [**NPM Package Comparator**](https://github.com/Hashir-ahm/npm-package-comparator) · [live](https://npm-package-comparator.vercel.app) | Compare two npm packages and get a recommendation — *built during my internship at Emumba* | React · TypeScript |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
